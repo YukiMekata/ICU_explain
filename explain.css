@@ -20,6 +20,7 @@ left: 38%;
 
 .box{
     width: 700px;
+    text-align: left;
     padding: 10px 30px 25px 40px;
     background-color: white;
     color: black;
